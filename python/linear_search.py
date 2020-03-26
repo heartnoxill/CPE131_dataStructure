@@ -1,4 +1,4 @@
-global count
+# global count
 class Node:
     def __init__(self,data):
         self.data = data    # Assign Data
@@ -7,7 +7,7 @@ class Node:
 class LinkedList:
     def __init__(self):
         self.head = None    # Initialized head as None
-        self.count = 0
+        # self.count = 0
 
     def push(self, new_data):
         new_node = Node(new_data)
@@ -17,15 +17,15 @@ class LinkedList:
     def search(self, x):
         current = self.head
         while current != None:
-            self.count += 1
+            # self.count += 1
             if current.data == x:
                 return True
-                return self.count      # data found
+                # return self.count      # data found
             current = current.next
         return False
 
 if __name__ == '__main__':
-    count = 0
+    # count = 0
     list1 = LinkedList()
     list1.push(1)
     list1.push(2)
@@ -35,6 +35,6 @@ if __name__ == '__main__':
 
     if list1.search(4):
         print("Yes")
-        print("Tried" , count ,"times")
+        # print("Tried" , count ,"times")
     else:
         print("No")

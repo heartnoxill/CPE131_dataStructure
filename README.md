@@ -3,3 +3,21 @@
 
 # CPE131 Data Structure Class for Automation Engineering
 ## Pattarapon Buathong
+**C Programming**
+- Linked List
+- Insert Node
+- Delete Node
+- Stack
+- Queue
+- Integer to Binary
+- Binary Tree
+
+**Python**
+- **Flowchart**
+- Linked List
+- Stack
+- Queue
+- Dequeue
+- Linear Search
+- Binary Search
+- Selection Sort

@@ -2,7 +2,7 @@ class Node:
     def __init__(self, data):
         self.data = data
         self.next = None
-        self.prev = None
+        # self.prev = None
 
 def newNode(x):
     temp = Node(0)

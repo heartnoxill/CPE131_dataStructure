@@ -1,0 +1,22 @@
+partition(array, low, high):
+	pIndex = low-1
+	pivot = array[high]
+	for j loop in range(low, high): 	#loop from low to high
+		if array[j] <= pivot:
+			pIndex interate by 1
+			array[pIndex] swap with array [j]
+	array[pIndex+1] swap with array[high] 	# if finish ^, swap with pivot
+	return pIndex+1
+
+quicksort(array, low, high):
+	if low less than high:
+		pi = partition(array, low, high)
+		quicksort(array, low, pi-1)	# sort segment left of the pivot
+		quicksort(array, pi+1, high)	# sort segment right of the pivot
+
+let array = [43, 2, 7, 33, 100, 1]
+n = length of array
+quicksort(array, 0, n-1)
+print("Sorted list is:") # [1,2,7,33,43,100]
+for i loop in range(n):	#loop to n
+	print value of array[i]

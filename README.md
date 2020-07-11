@@ -21,3 +21,10 @@
 - Linear Search
 - Binary Search
 - Selection Sort
+
+---------------------------
+
+- Quicksort
+- Binary Tree
+- Trie
+- Binary Heap Tree

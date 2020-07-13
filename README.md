@@ -28,3 +28,4 @@
 - Binary Tree
 - Trie
 - Binary Heap Tree
+- Hash Table

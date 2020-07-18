@@ -51,6 +51,7 @@ int main(){
   push(&root, 1);
   push(&root, 2);
   push(&root, 3);
+  printf("Top element is %d\n", peek(root));
   pop(&root);
   printf("Top element is %d\n", peek(root));
   return 0;

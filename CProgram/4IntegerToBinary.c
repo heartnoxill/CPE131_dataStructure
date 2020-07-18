@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //Author: Pattarapon Buathong 62070504012
-
+//Stack implementation for converting integer number to binary number
 int stackNum, i, j, count;
 
 struct stack{

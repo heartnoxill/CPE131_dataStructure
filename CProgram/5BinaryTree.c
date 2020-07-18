@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define COUNT 5
+//Number sorted binary tree
 struct node{
     int data;
     struct node *left;

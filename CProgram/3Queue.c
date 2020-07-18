@@ -71,8 +71,8 @@ int dequeue(struct Queue* queue){
 int main(){
     struct Queue* queue = createQueue(10);
 
-    printf("Front item is %d\n",front(queue)); //empty
-    printf("Back item is %d\n", back(queue)); //empty
+    printf("Front item is %d (Empty)\n",front(queue)); //empty
+    printf("Back item is %d (Empty)\n", back(queue)); //empty
 
     enqueue(queue, 10);
     enqueue(queue, 20);

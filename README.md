@@ -37,3 +37,6 @@
 - Trie
 - Binary Heap Tree
 - Hash Table
+---------------------------
+List of sorting
+Selection Sort, Quicksort

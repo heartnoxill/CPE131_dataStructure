@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1518446244 source:c:\users\aob.om\desktop\main.c
+	"polish.h"
+	"stack_str_float_ADT.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1518445297 c:\users\aob.om\desktop\polish.h
+
+1518447046 c:\users\aob.om\desktop\stack_str_float_adt.h
+
+1550291023 source:c:\users\aob.om\desktop\polish.c
+	"polish.h"
+	"stack_str_float_ADT.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1518447058 source:c:\users\aob.om\desktop\stack_str_float.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"stack_str_float_ADT.h"
+

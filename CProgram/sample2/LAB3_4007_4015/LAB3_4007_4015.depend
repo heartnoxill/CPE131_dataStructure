@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1549682442 source:c:\users\aob.om\desktop\lab3_4007_4015\bankqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bankQueue.h"
+
+1549682442 c:\users\aob.om\desktop\lab3_4007_4015\bankqueue.h
+
+1549687184 source:c:\users\aob.om\desktop\lab3_4007_4015\bankqueuebyarray.c
+	<string.h>
+	<stdio.h>
+	"bankQueue.h"
+
+1549682442 source:c:\users\aob.om\desktop\data stucture\lab3_4007_4015\bankqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bankQueue.h"
+
+1549682442 c:\users\aob.om\desktop\data stucture\lab3_4007_4015\bankqueue.h
+
+1549687184 source:c:\users\aob.om\desktop\data stucture\lab3_4007_4015\bankqueuebyarray.c
+	<string.h>
+	<stdio.h>
+	"bankQueue.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1459362782 source:c:\users\aob.om\desktop\w10_4007\fileio.c
+	<stdio.h>
+	<stdlib.h>
+	"FileIO.h"
+
+1459362718 c:\users\aob.om\desktop\w10_4007\fileio.h
+
+1554957004 source:c:\users\aob.om\desktop\w10_4007\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FileIO.h"
+	"Heap.h"
+
+1459361852 c:\users\aob.om\desktop\w10_4007\heap.h
+
+1554957078 source:c:\users\aob.om\desktop\w10_4007\heap.c
+	"Heap.h"
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553885631 source:c:\users\aob.om\desktop\w08_4007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1553885631 source:c:\users\aob.om\desktop\data stucture\w08_4007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

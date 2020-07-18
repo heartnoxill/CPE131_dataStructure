@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1459362782 source:c:\users\aob.om\desktop\w11_4007\fileio.c
+	<stdio.h>
+	<stdlib.h>
+	"FileIO.h"
+
+1492639894 c:\users\aob.om\desktop\w11_4007\fileio.h
+
+1555136163 source:c:\users\aob.om\desktop\w11_4007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"FileIO.h"
+

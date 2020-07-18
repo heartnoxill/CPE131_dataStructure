@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553309543 source:c:\users\aob.om\desktop\graph.c
+	"Graph.h"
+
+1548097110 c:\users\aob.om\desktop\graph.h
+	<stdio.h>
+	<stdlib.h>
+
+1548097112 source:c:\users\aob.om\desktop\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Graph.h"
+

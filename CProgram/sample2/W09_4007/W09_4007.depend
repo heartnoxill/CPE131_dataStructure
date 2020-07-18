@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554481469 source:c:\users\aob.om\desktop\w09_4007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1554481799 source:c:\users\aob.om\desktop\data stucture\w09_4007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

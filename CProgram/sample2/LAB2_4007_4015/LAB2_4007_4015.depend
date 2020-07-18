@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1549682442 source:c:\users\aob.om\desktop\listtester.c
+	<stdio.h>
+	<stdlib.h>
+	"listADT.h"
+
+1549682442 c:\users\aob.om\desktop\listadt.h
+
+1549685520 source:c:\users\aob.om\desktop\linkedlist.c
+	"listADT.h"
+	<stdio.h>
+	<stdlib.h>
+
+1549682442 source:c:\users\aob.om\desktop\data stucture\lab2_4007_4015\listtester.c
+	<stdio.h>
+	<stdlib.h>
+	"listADT.h"
+
+1549682442 c:\users\aob.om\desktop\data stucture\lab2_4007_4015\listadt.h
+
+1549686566 source:c:\users\aob.om\desktop\data stucture\lab2_4007_4015\linkedlist.c
+	"listADT.h"
+	<stdio.h>
+	<stdlib.h>
+

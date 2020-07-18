@@ -11,6 +11,14 @@
 - Queue
 - Integer to Binary
 - Binary Tree
+- Linear Search
+- Binary Search
+- Selection Sort (Iterative and Recursive!)
+- Max Depth (Height) of the tree
+- Quicksort
+- Trie
+- Binary Heap
+- Hash Table
 
 **Python**
 - **Flowchart**
